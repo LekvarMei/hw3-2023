@@ -9,11 +9,13 @@ header, nav{
     padding: 12px 20px 30px 15px;
     margin: 2% 2% 2% 2%;
 }
+
 nav ul li{
     /* Set display, margin, padding, font-size, background-color */
     display:inline;
     margin: 8%;
     padding: 20px;
+    color: #000000;
     font-size: 20px;
     background-color: #fee5c3;
 }
@@ -25,7 +27,7 @@ nav a{
 
 a:visited{
     /* Set color */
-    color: black;
+    color: #000000;
 }
 
 nav a.current{
@@ -75,7 +77,7 @@ h1, h2, h3{
 .grid div{
     /* Set border properties, padding, and background color */
     background-color:#f5f5f5;
-    border: 3px solid black;
+    border: 3px solid #000000;
     border-radius: 20px;
     padding: 5px;
 }
